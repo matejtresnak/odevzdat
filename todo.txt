@@ -1,0 +1,17 @@
+Bubble sort OK
+
+Select sort OK
+
+Newtonova metoda OK
+libovolná nelineární rovnice, např. x^2-1=0, počáteční práh přesnosti, aproximaci zadá uživatel, šířku h volte min 0.001, aproximaci derivaci proveďte dle její definice (tj. aproximujeme pomocí zlomku (f(x+h)-f(x))/h)
+
+Metoda puleni intervalu OK
+libovolna nelineární rovnice, např. x^3-5x^2+5x=0, meze a,b zadá uživatel
+
+Polynom OK
+Metody (string, Vycisli, secti, odecti, nasobSkalarem)
+
+Integraly OK
+(Obdelnikova, Lichobeznikova, Slozena obdelnikova, Slozena lichobeznikova) výpočet určitého integrálu pro funkci 2x^3-x^2+5, meze a,b zadá uživatel
+
+Vektory OK
